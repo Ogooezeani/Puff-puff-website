@@ -1,0 +1,23 @@
+body{
+  background: lightblue;  
+}
+h1{
+    text-align: center; 
+    color: black;
+}
+.flex{
+    color: navy;
+    display: flex;
+    justify-content: space-evenly;
+            
+}
+.picture{
+display: block;
+    padding-top: 50px;
+    width: 500px;
+    justify-content: center;
+    
+}
+.item{
+    align-self: center;
+}
